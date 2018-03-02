@@ -1,0 +1,6 @@
+Dekonstruiere ResourceManager
+Textur <background_intro> geloescht
+Textur <tile_FrozenGround> geloescht
+Textur <tile_Grass> geloescht
+Textur <tile_SeamlessGrass> geloescht
+Fertig dekonstruiert
